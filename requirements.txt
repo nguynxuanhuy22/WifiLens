@@ -1,0 +1,8 @@
+# WiFiLens Pro - Requirements
+# Dự án được tối ưu hóa 100% bằng Python Standard Library (Thư viện chuẩn)
+# Không cần cài đặt bất kỳ thư viện bên ngoài (Zero Dependencies)!
+#
+# Yêu cầu hệ thống:
+# - Python >= 3.8
+# - Hệ điều hành: Windows 10 / Windows 11
+# - Card mạng Wi-Fi (WLAN Adapter) đang bật
